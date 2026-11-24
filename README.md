@@ -17,7 +17,7 @@ I enjoy building practical web and mobile applications from scratch—focusing o
 
 ### 🚀 Featured Project
 
-**CareLink — Rule-Based Matching & Verification Platform**  
+**CareLink — A Rule-Based Compatibility Matching & Verification Platform for Domestic Helper Recruitment**  
 *TypeScript • React Native (Expo) • PHP • MySQL*
 - Cross-platform domestic helper recruitment system built in coordination with PESO Ormoc to digitalize manual logbook workflows.
 - Comprises a React web application (Vercel), an Android mobile app via Expo EAS, and a PHP REST API (Hostinger) backed by a 61-table relational database.
