@@ -39,4 +39,4 @@ I enjoy building practical web and mobile applications from scratch—focusing o
 
 - **LinkedIn:** [linkedin.com/in/jessdavidalmene](https://linkedin.com/in/jessdavidalmene)
 - **Email:** [almenejessdavid@gmail.com](mailto:almenejessdavid@gmail.com)
-- **Interests:** Competitive Chess, UI/UX Design, 2D Animation
+- **Interests:** Competitive Chess, UI/UX Design, 2D Animation, Database Designing
