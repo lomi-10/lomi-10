@@ -22,6 +22,7 @@ I enjoy building practical web and mobile applications from scratch—focusing o
 - Cross-platform domestic helper recruitment system built in coordination with PESO Ormoc to digitalize manual logbook workflows.
 - Comprises a React web application (Vercel), an Android mobile app via Expo EAS, and a PHP REST API (Hostinger) backed by a 61-table relational database.
 - Supports role-based access control, digital NSRP registration, multi-criteria matching, document verification, and automated contract generation aligned with RA 10361.
+- Accessible at carelink-ph.com
 
 ---
 
